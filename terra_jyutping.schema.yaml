@@ -57,6 +57,7 @@ speller:
     - derive/eo/oe/
     - derive/oe/eo/
     - derive/^([a-z]+)\d$/$1/
+    - derive/aa$/a/              # 容錯
     - 'xlit 123456 \/-,.;'
 
 translator:
@@ -90,8 +91,8 @@ punctuator:
 key_binder:
   import_preset: default
   bindings:
-    - { when: composing, accept: minus, send: minus }
-    - { when: paging, accept: minus, send: Page_Up }
+    - { when: paging, accept: bracketleft, send: Page_Up }
+    - { when: has_menu, accept: bracketright, send: Page_Down }
 
 recognizer:
   import_preset: default
