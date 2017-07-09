@@ -74,6 +74,7 @@ min_phrase_weight: 100
 他	keoi5	# 佢
 她	keoi5	# 佢
 它	keoi5	# 佢
+給	bei2	# 畀 （常用異讀）
 給	bei3	# 畀
 的	ge1		# 忌、其、(嘅)
 哄	tam3	# 𧨾
@@ -97,7 +98,6 @@ min_phrase_weight: 100
 哭	haam3	# 喊
 那	gam3	# (咁)
 
-
 而已	ze1			# (啫)
 這樣	gam2 joeng6	# (噉樣)
 什麼	mat1 je5	# (乜嘢)
@@ -113,7 +113,8 @@ min_phrase_weight: 100
 噁心	wat6 dat6	# 鶻突
 小孩	sai3 lou6	# (細路)
 這裏	ni1 dou3	# 爾道
-哪裏	go3 dou3	# (嗰度)
+那裏	go3 dou3	# (嗰度)
+哪裏	bin1 dou3	# 焉道、(邊度)
 
 
 # 原字典
@@ -7893,7 +7894,7 @@ min_phrase_weight: 100
 瞀	mau6
 鄮	mau6
 孭	me1
-咩	me1	1000
+咩	me1
 乜	me1	1000
 乜	me5	1000
 眯	mei1
@@ -8515,6 +8516,7 @@ min_phrase_weight: 100
 寱	ngai6
 鮨	ngai6
 襼	ngai6
+僞	ngai6
 眲	ngak1
 搹	ngak1
 腛	ngak1
