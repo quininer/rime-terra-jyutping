@@ -26,8 +26,8 @@ engine:
   processors:
     - ascii_composer
     - recognizer
-    - speller
     - key_binder
+    - speller
     - punctuator
     - selector
     - navigator
@@ -40,7 +40,7 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
-    - r10n_translator
+    - script_translator
     - reverse_lookup_translator
   filters:
     - simplifier
@@ -62,6 +62,7 @@ speller:
 
 translator:
   dictionary: terra_jyutping
+  spelling_hints: 5
   preedit_format:
     - 'xform \\ ¹'
     - 'xform / ²'
@@ -90,11 +91,7 @@ punctuator:
 
 key_binder:
   import_preset: default
-  bindings:
-    - { when: paging, accept: bracketleft, send: Page_Up }
-    - { when: has_menu, accept: bracketright, send: Page_Down }
 
 recognizer:
-  import_preset: default
   patterns:
     reverse_lookup: "`[a-z]*'?$"
