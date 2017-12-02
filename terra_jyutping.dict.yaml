@@ -58,12 +58,14 @@ min_phrase_weight: 100
 徂	zo2
 來	lei4
 無	mou5
+䎺	zai3
 
 今下	gaa1 haa5
 而今	ji4 gaa1
 旮旯	kaa1 laa1
 隔籬	gaak3 lei4
 謦欬	king1 gai6
+咖啡	gaa3 fei1
 
 # 文白異讀
 
@@ -71,7 +73,7 @@ min_phrase_weight: 100
 是	hai6	# 係
 麼	me1		# (咩)
 在	hai2	# (喺)
-些	di1		# 尐
+點	di1		# 尐
 他	keoi5	# 佢
 她	keoi5	# 佢
 它	keoi5	# 佢
@@ -90,7 +92,7 @@ min_phrase_weight: 100
 久	noi6	# 耐
 隻	zi1		# 隻
 哪	bin1	# 焉
-那	go3		# 嗰
+那	go2		# 嗰
 這	ni1		# 爾
 也	dou1	# 都
 累	gui6	# 攰
@@ -99,7 +101,6 @@ min_phrase_weight: 100
 哭	haam3	# 喊
 那	gam3	# (咁)
 
-而已	ze1			# (啫)
 這樣	gam2 joeng6	# (噉樣)
 什麼	mat1 je5	# (乜嘢)
 什麼	me1 je5		# (乜嘢)
@@ -4128,6 +4129,7 @@ min_phrase_weight: 100
 揩	haai1
 鞋	haai4
 諧	haai4
+孩	haai4
 骸	haai4
 龤	haai4
 蟹	haai5
@@ -7278,6 +7280,7 @@ min_phrase_weight: 100
 齡	ling4
 陵	ling4
 凌	ling4
+鯪	ling4
 玲	ling4
 伶	ling4
 羚	ling4
@@ -10088,6 +10091,8 @@ min_phrase_weight: 100
 嶭	sit3
 躠	sit3
 舌	sit6
+折	sit6
+蝕	sit6
 消	siu1
 燒	siu1
 銷	siu1
