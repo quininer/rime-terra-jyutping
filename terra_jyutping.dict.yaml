@@ -24,6 +24,7 @@ min_phrase_weight: 100
 
 了	let1
 喵	miaau1
+玩	waan2
 
 # 本字
 
@@ -42,6 +43,7 @@ min_phrase_weight: 100
 恁	gam2
 恁	gam3
 尐	di1
+其	ge3
 忌	ge3
 擁	ung2
 㧻	duk1
@@ -59,6 +61,7 @@ min_phrase_weight: 100
 來	lei4
 無	mou5
 䎺	zai3
+箇	go3
 
 今下	gaa1 haa5
 而今	ji4 gaa1
@@ -83,6 +86,7 @@ min_phrase_weight: 100
 哄	tam3	# 𧨾
 找	wan2	# 搵
 了	zo2		# 徂、(咗)
+惱	nau1    # 嬲
 怒	nau1	# 嬲
 吧	gwaa3	# (啩)
 對	ngaam1	# 合
@@ -106,9 +110,7 @@ min_phrase_weight: 100
 什麼	me1 je5		# (乜嘢)
 吉他	git3 taa1	# ..
 明天	ting1 jat6	# (聽日)
-另是	ding6 hai6	# 定是
 人家	jan4 dei6	# (人哋)
-起來	hei2 san1	# 起身
 難道	m4 tung1	# 毋通
 你們	nei5 dei6	# 你等、(你哋)
 隔壁	gaak3 lei4	# 隔離
@@ -8758,6 +8760,7 @@ min_phrase_weight: 100
 諾	nok6
 鐸	nok6
 囊	nong4
+饢	nong4
 囔	nong4
 瓤	nong4
 攮	nong5
@@ -9766,6 +9769,7 @@ min_phrase_weight: 100
 簨	seon3
 純	seon4
 唇	seon4
+馴	seon4
 鶉	seon4
 脣	seon4
 醇	seon4
@@ -10982,6 +10986,7 @@ min_phrase_weight: 100
 划	waa4
 嘩	waa4
 樺	waa4
+嬅	waa4
 鏵	waa4
 鋘	waa4
 驊	waa4
