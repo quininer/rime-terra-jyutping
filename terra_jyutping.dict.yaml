@@ -19,6 +19,8 @@ min_phrase_weight: 100
 
 俖	poi2
 蹺蹊	kiu1 kei1
+撈	laau1
+撈	laau4
 
 # 新音
 
@@ -70,7 +72,7 @@ min_phrase_weight: 100
 謦欬	king1 gai6
 咖啡	gaa3 fei1
 
-# 文白異讀
+# 譯讀
 
 不	m4		# 毋
 是	hai6	# 係
@@ -119,6 +121,7 @@ min_phrase_weight: 100
 這裏	ni1 dou3	# 爾道
 那裏	go3 dou3	# (嗰度)
 哪裏	bin1 dou3	# 焉道、(邊度)
+現在	ji4 gaa1    # 而今
 
 
 # 原字典
